@@ -71,8 +71,8 @@ export default function Gallarey(){
        
     ];
 
-    const photos = pics.map((pic) => (
-        <div className="pic--container">
+    const photos = pics.map((pic,i) => (
+        <div className="pic--container" key={i}>
             <img src={pic.url} alt="picture" className="image"/>
             <span className="name">{pic.name}</span>
         </div>
