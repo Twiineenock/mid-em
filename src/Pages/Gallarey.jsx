@@ -6,7 +6,7 @@ export default function Gallarey(){
 
     const pics = [
         {
-            url: "../dist/b1.jpeg",
+            url: "../../dist/b1.jpeg",
             name: "Maria"
         },
         {
