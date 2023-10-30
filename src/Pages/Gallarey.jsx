@@ -6,66 +6,66 @@ export default function Gallarey(){
 
     const pics = [
         {
-            url: "public/b1.jpeg",
+            url: "dist/b1.jpeg",
             name: "Maria"
         },
         {
-            url: "public/b2.jpeg",
+            url: "dist/b2.jpeg",
             name: "Joan"
         },
         {
-            url: "public/b3.jpeg",
+            url: "dist/b3.jpeg",
             name: "Jane"
         },
         {
-            url: "public/b4.jpeg",
+            url: "dist/b4.jpeg",
             name: "Jennifer"
         },
         {
-            url: "public/b5.jpeg",
+            url: "dist/b5.jpeg",
             name: "Janet"
         },{
-            url: "public/b6.jpeg",
+            url: "dist/b6.jpeg",
             name: "John"
         },
         {
-            url: "public/b7.jpeg",
+            url: "dist/b7.jpeg",
             name: "James"
         },
         {
-            url: "public/b8.jpeg",
+            url: "dist/b8.jpeg",
             name: "Judas"
         },
         {
-            url: "public/b9.jpeg",
+            url: "dist/b9.jpeg",
             name: "Job"
         },
         {
-            url: "public/b10.jpeg",
+            url: "dist/b10.jpeg",
             name: "Jacob"
         },
         {
-            url: "public/b11.jpeg",
+            url: "dist/b11.jpeg",
             name: "Justice"
         },
         {
-            url: "public/b12.jpeg",
+            url: "dist/b12.jpeg",
             name: "Love"
         },
         {
-            url: "public/b13.jpeg",
+            url: "dist/b13.jpeg",
             name: "Blessing"
         },
         {
-            url: "public/b14.jpeg",
+            url: "dist/b14.jpeg",
             name: "Judge"
         },
         {
-            url: "public/b15.jpeg",
+            url: "dist/b15.jpeg",
             name: "Kirabo"
         },
         {
-            url: "public/b16.jpeg",
+            url: "dist/b16.jpeg",
             name: "Nakimuli"
         },
        
