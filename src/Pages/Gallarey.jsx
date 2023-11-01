@@ -6,66 +6,66 @@ export default function Gallarey(){
 
     const pics = [
         {
-            url: "../../dist/assets/b1.jpeg",
+            url: "src/ASSETS/b1.jpeg",
             name: "Maria"
         },
         {
-            url: "dist/b2.jpeg",
+            url: "src/ASSETS/b2.jpeg",
             name: "Joan"
         },
         {
-            url: "dist/b3.jpeg",
+            url: "src/ASSETS/b3.jpeg",
             name: "Jane"
         },
         {
-            url: "dist/b4.jpeg",
+            url: "src/ASSETS/b4.jpeg",
             name: "Jennifer"
         },
         {
-            url: "dist/b5.jpeg",
+            url: "src/ASSETS/b5.jpeg",
             name: "Janet"
         },{
-            url: "dist/b6.jpeg",
+            url: "src/ASSETS/b6.jpeg",
             name: "John"
         },
         {
-            url: "dist/b7.jpeg",
+            url: "src/ASSETS/b7.jpeg",
             name: "James"
         },
         {
-            url: "dist/b8.jpeg",
+            url: "src/ASSETS/b8.jpeg",
             name: "Judas"
         },
         {
-            url: "dist/b9.jpeg",
+            url: "src/ASSETS/b9.jpeg",
             name: "Job"
         },
         {
-            url: "dist/b10.jpeg",
+            url: "src/ASSETS/b10.jpeg",
             name: "Jacob"
         },
         {
-            url: "dist/b11.jpeg",
+            url: "src/ASSETS/b11.jpeg",
             name: "Justice"
         },
         {
-            url: "dist/b12.jpeg",
+            url: "src/ASSETS/b12.jpeg",
             name: "Love"
         },
         {
-            url: "dist/b13.jpeg",
+            url: "src/ASSETS/b13.jpeg",
             name: "Blessing"
         },
         {
-            url: "dist/b14.jpeg",
+            url: "src/ASSETS/b14.jpeg",
             name: "Judge"
         },
         {
-            url: "dist/b15.jpeg",
+            url: "src/ASSETS/b15.jpeg",
             name: "Kirabo"
         },
         {
-            url: "dist/b16.jpeg",
+            url: "src/ASSETS/b16.jpeg",
             name: "Nakimuli"
         },
        
