@@ -6,10 +6,10 @@ export default function Gallarey(){
 
     const pics = [
         {
-            url: "src/ASSETS/b1.jpeg",
+            url: new URL('src/ASSETS/b1.jpeg', import.meta.url).href,
             name: "Maria"
         },
-        {
+        /* {
             url: "src/ASSETS/b2.jpeg",
             name: "Joan"
         },
@@ -67,7 +67,7 @@ export default function Gallarey(){
         {
             url: "src/ASSETS/b16.jpeg",
             name: "Nakimuli"
-        },
+        }, */
        
     ];
 
